@@ -2,7 +2,8 @@
 
 Big basket is the largest online grocery supermarket in India. It Was launched somewhere around in 2011 since then they have been expanding their business. Though some new competitors have been able to set their foot in the nation such as Blink it etc. but Big Basket has still not lost anything - thanks to ever expanding popular base and their shift to online buying.
 This dataset contains 10 attributes with simple meaning and which are described as follows:
-index - Simply the Index!
+
+index - Simply the Index
 product - Title of the product (as they&#39;re listed)
 category - Category into which product has been classified
 sub_category - Subcategory into which product has been kept
